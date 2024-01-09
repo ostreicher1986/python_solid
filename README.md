@@ -4,6 +4,6 @@ Nesse contexto, temos a oportunidade de aplica o S.O.L.I.D, princípio criado po
 
 A seguir vamos exemplificar cada um dos 5 princípios, para tal, vamos utilizar a linguagem de programação Python.
 
-Para acompanhar com detalhes o projeto, sugerimos a leitura do material de apoio:
+Para acompanhar com detalhes o projeto, sugerimos a leitura do material de apoio: https://www.linkedin.com/pulse/entendendo-os-5-princ%25C3%25ADpios-do-solid-com-ajuda-da-python-anderson-pomof
 
 Bons Estudos!!!
